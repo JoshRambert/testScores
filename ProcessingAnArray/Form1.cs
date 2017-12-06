@@ -49,7 +49,7 @@ namespace ProcessingAnArray
             //step through the rest of the array, beginning at
             //element 1, When a value greater than the highest is found
             //assign that value to the highest.
-            for (int index =1; index < iArray.Length; index++)
+            for (int index = 1; index < iArray.Length; index++)
             {
                 if (iArray[index] > highest)
                 {
@@ -98,7 +98,7 @@ namespace ProcessingAnArray
                 
                 //fill the array with the random numbers 
                 //from 65 - 100
-                for (index = 0; index < scores.Length; index++)
+                for (index = 65; index < scores.Length; index++)
                 {
                     scores[index] = rand.Next(100);
                 }
