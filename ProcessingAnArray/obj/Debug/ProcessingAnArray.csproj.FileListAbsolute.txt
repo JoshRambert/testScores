@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\bin\Debug\ProcessingAnArray.exe.config
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\bin\Debug\ProcessingAnArray.exe
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\bin\Debug\ProcessingAnArray.pdb
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\obj\Debug\ProcessingAnArray.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\obj\Debug\ProcessingAnArray.Form1.resources
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\obj\Debug\ProcessingAnArray.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\obj\Debug\ProcessingAnArray.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\obj\Debug\ProcessingAnArray.exe
+C:\Users\Joshua\Desktop\C#\ProcessingAnArray\ProcessingAnArray\obj\Debug\ProcessingAnArray.pdb
